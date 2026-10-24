@@ -5,11 +5,11 @@ The solution follows the **Medallion Architecture** (Bronze, Silver, and Gold) t
 
 ## Key Implementations
 
-Data Ingestion: Loaded raw CRM and ERP datasets into the Bronze layer using PySpark.
-Data Transformation: Cleaned, standardized, and validated data in the Silver layer.
-Medallion Architecture: Structured the pipeline into Bronze, Silver, and Gold layers.
-Delta Lake: Used Delta tables to support reliable data storage and data manipulation.
-SQL Analytics: Applied SQL to query, explore, and analyze processed datasets.
+* Data Ingestion: Loaded raw CRM and ERP datasets into the Bronze layer using PySpark.
+* Data Transformation: Cleaned, standardized, and validated data in the Silver layer.
+* Medallion Architecture: Structured the pipeline into Bronze, Silver, and Gold layers.
+* Delta Lake: Used Delta tables to support reliable data storage and data manipulation.
+* SQL Analytics: Applied SQL to query, explore, and analyze processed datasets.
 
 This project reflects my hands-on experience building a data lakehouse pipeline with Databricks and demonstrates my understanding of core data engineering concepts and practices.
 
